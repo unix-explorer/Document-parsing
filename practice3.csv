@@ -1,0 +1,4 @@
+Name,Description,Price
+Basic Item,Simple product,19.99
+"Special, Item","Product, with commas",29.99
+"""Quoted"" Item","Product with ""quotes""",39.99
