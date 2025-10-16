@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 pypdf2 = "*"
+pdfplumber = "*"
+openpyxl = "*"
+python-docx = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+pytesseract = "*"
+pillow = "*"
+requests = "*"
 
 [dev-packages]
 
